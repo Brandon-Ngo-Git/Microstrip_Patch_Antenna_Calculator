@@ -1,0 +1,9 @@
+https://www.pasternack.com/t-calculator-microstrip-ant.aspx
+
+TO DO:
+
+1. Add equations for width and height
+2. Add conversions for each unit type
+3. Output either to terminal or .json/.txt
+
+Bug fixes? Functions?

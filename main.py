@@ -2,7 +2,6 @@ import sys
 import re
 
 # Variables
-# HELP
 
 def input():
     if len(sys.argv) != 4:
