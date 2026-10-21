@@ -10,12 +10,12 @@ Install dependencies:
 ```
 # Usage
 
-Running the python script takes 3 arguments:  
+Run `main.py` with 3 arguments:  
 Note: height must be either in, cm, or mm and operation frequency must be either ghz or mhz
 ```text
- python3 [dielectric constant] [dielectric height] [operation frequency]
+ python main.py [dielectric constant] [dielectric height] [operation frequency]
 ```
 Example:
 ```text
- python3 0.45 12in 45ghz
+ python main.py 0.25 16mm 2mhz
 ```
